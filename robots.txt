@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.vishwasequiptechsolution.co.in/sitemap.xml

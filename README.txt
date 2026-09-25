@@ -32,7 +32,7 @@ ADDING A PROJECT PHOTO
 
 
 WEBSITE ADDRESS
-The page, sitemap.xml and robots.txt use https://vishwasenterprises.in
+The page, sitemap.xml and robots.txt use https://www.vishwasequiptechsolution.co.in
 If your live address is different, search-and-replace it in index.html,
 sitemap.xml and robots.txt.
 
